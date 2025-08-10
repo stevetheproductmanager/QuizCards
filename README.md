@@ -37,5 +37,6 @@ IDs/timestamps are auto-filled on import.
 - `pages/`: top-level composition
 - `styles/`: CSS for flip behavior
 =======
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e42283e2-0a74-423a-92ac-55540ea2a6cb" />
->>>>>>> eeefa2ec35809a8fd27ef8a79010457748794d1d
+
+<img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/c4a973dd-2108-4783-ba54-34e51118d594" />
+

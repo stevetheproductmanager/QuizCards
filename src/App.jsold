@@ -1,0 +1,12 @@
+import QuizCards from './components/QuizCards';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <QuizCards />
+    </div>
+  );
+}
+
+export default App;

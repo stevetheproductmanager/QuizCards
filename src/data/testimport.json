@@ -1,0 +1,202 @@
+[
+  {
+    "category": "Concept",
+    "question": "What is managerial accounting?",
+    "answer": "Managerial accounting involves recording, calculating, and analyzing financial information for internal management and decision-making.",
+    "id": "c_c8c68c63075f4e85",
+    "createdAt": 1746563507357,
+    "updatedAt": 1746563507357
+  },
+  {
+    "category": "Concept",
+    "question": "What are the three most common types of companies and what do they sell?",
+    "answer": "Service companies sell intangible services, merchandising companies sell tangible products they purchase, and manufacturing companies sell tangible products they make.",
+    "id": "c_0d2652b22cb34c2d",
+    "createdAt": 1753043507357,
+    "updatedAt": 1753043507357
+  },
+  {
+    "category": "Concept",
+    "question": "What kind of inventory do service, merchandising, and manufacturing companies hold?",
+    "answer": "Service companies hold no inventory. Merchandising companies hold one kind: 'Inventory'. Manufacturing companies hold three kinds: Raw Materials, Work-in-Process, and Finished Goods.",
+    "id": "c_93adf53c0e76477f",
+    "createdAt": 1752525107357,
+    "updatedAt": 1752525107357
+  },
+  {
+    "category": "Concept",
+    "question": "What is the value chain?",
+    "answer": "The value chain represents the categories of activities that add value to a company's products or services.",
+    "id": "c_e5907135012a44c4",
+    "createdAt": 1753129907357,
+    "updatedAt": 1753129907357
+  },
+  {
+    "category": "Concept",
+    "question": "What are the activities in the value chain?",
+    "answer": "Research and Development, Design, Production or Purchases, Marketing, Distribution, and Customer Service.",
+    "id": "c_76ace45c18ef40ea",
+    "createdAt": 1752525107357,
+    "updatedAt": 1752525107357
+  },
+  {
+    "category": "Concept",
+    "question": "What is a cost object?",
+    "answer": "A cost object is anything that a manager wants to know the cost of, such as a single unit of product, a product line, a department, or a geographic segment.",
+    "id": "c_1daec1c9d4c340c3",
+    "createdAt": 1746736307357,
+    "updatedAt": 1746736307357
+  },
+  {
+    "category": "Concept",
+    "question": "What is the difference between a direct cost and an indirect cost?",
+    "answer": "A direct cost can be easily traced to the cost object (e.g., direct materials, direct labor). An indirect cost cannot be easily traced and must be allocated (e.g., indirect materials, indirect labor, other overhead).",
+    "id": "c_a154ff38894d4510",
+    "createdAt": 1744230707357,
+    "updatedAt": 1744230707357
+  },
+  {
+    "category": "Concept",
+    "question": "How can the same cost be direct or indirect?",
+    "answer": "The classification of a cost as direct or indirect depends on the cost object. For example, the cost of plant and equipment depreciation is an indirect cost for one Prius, but a direct cost for the Prius manufacturing plant.",
+    "id": "c_967345e4e82a4906",
+    "createdAt": 1743021107357,
+    "updatedAt": 1743021107357
+  },
+  {
+    "category": "Concept",
+    "question": "What is the difference between product costs and period costs?",
+    "answer": "Product costs are associated with producing or purchasing inventory (Production/Purchases part of the value chain). Period costs are all other costs not related to inventory (other parts of the value chain like R&D, design, marketing, etc.).",
+    "id": "c_c1c49b70527d4934",
+    "createdAt": 1751229107357,
+    "updatedAt": 1751229107357
+  },
+  {
+    "category": "Concept",
+    "question": "How are product costs and period costs treated for accounting purposes?",
+    "answer": "Product costs are first accumulated as Inventory on the Balance Sheet and then expensed as Cost of Goods Sold on the Income Statement when items are sold. Period costs are immediately expensed as Operating Expenses on the Income Statement when incurred.",
+    "id": "c_b1fc07d750bb4310",
+    "createdAt": 1741379507357,
+    "updatedAt": 1741379507357
+  },
+  {
+    "category": "Concept",
+    "question": "What are the three types of product costs for manufacturing companies?",
+    "answer": "Direct Materials (DM), Direct Labor (DL), and Manufacturing Overhead (MOH).",
+    "id": "c_da3a535d41c34d52",
+    "createdAt": 1744057907357,
+    "updatedAt": 1744057907357
+  },
+  {
+    "category": "Concept",
+    "question": "What are the two methods for determining the cost of a product in job costing?",
+    "answer": "Process Costing (for identical products in large batches with uniform procedures) and Job Costing (for unique/customizable products in smaller batches with differing procedures).",
+    "id": "c_7d5738cfd41a45a9",
+    "createdAt": 1746649907357,
+    "updatedAt": 1746649907357
+  },
+  {
+    "category": "Concept",
+    "question": "What is a job cost record?",
+    "answer": "A record used to calculate and keep track of the direct materials and direct labor costs traced to a job, and the manufacturing overhead costs allocated to a job.",
+    "id": "c_f7a98b2f0a25442e",
+    "createdAt": 1742070707357,
+    "updatedAt": 1742070707357
+  },
+  {
+    "category": "Concept",
+    "question": "What are the four steps to allocate manufacturing overhead (MOH) to a job?",
+    "answer": "1. Estimate total MOH costs for the entire year. 2. Select and estimate the total allocation base for the entire year. 3. Calculate the predetermined MOH rate (Step 1 ÷ Step 2). 4. Allocate MOH to an individual job (Predetermined MOH rate × Actual amount of allocation base used on the job).",
+    "id": "c_db3dce122e3b4e99",
+    "createdAt": 1752265907357,
+    "updatedAt": 1752265907357
+  },
+  {
+    "category": "Concept",
+    "question": "What is an allocation base?",
+    "answer": "A measure chosen as the basis for how indirect costs will be divided up and assigned to individual jobs. Ideally, it should be a cost driver.",
+    "id": "c_32558d25c694450e",
+    "createdAt": 1743107507357,
+    "updatedAt": 1743107507357
+  },
+  {
+    "category": "Concept",
+    "question": "How can job cost record information be used for making decisions?",
+    "answer": "To reduce future job costs, compare profitability of different products, deal with pricing pressure, decide on discounts for high-volume sales, bid on custom orders, and prepare financial statements.",
+    "id": "c_66ddf1ed26ff4545",
+    "createdAt": 1746477107357,
+    "updatedAt": 1746477107357
+  },
+  {
+    "category": "Concept",
+    "question": "What is overallocated or underallocated manufacturing overhead?",
+    "answer": "The difference between the total amount of MOH allocated throughout the year (based on estimates) and the total amount of MOH actually spent.",
+    "id": "c_b3e5a82965cd465f",
+    "createdAt": 1741033907357,
+    "updatedAt": 1741033907357
+  },
+  {
+    "category": "Concept",
+    "question": "What happens if MOH is overallocated?",
+    "answer": "Jobs have been overcosted, and COGS needs to be decreased.",
+    "id": "c_a7d13bc46e1d41f9",
+    "createdAt": 1745958707357,
+    "updatedAt": 1745958707357
+  },
+  {
+    "category": "Concept",
+    "question": "What happens if MOH is underallocated?",
+    "answer": "Jobs have been undercosted, and COGS needs to be increased.",
+    "id": "c_dfe2cef63e3c4c90",
+    "createdAt": 1753302707357,
+    "updatedAt": 1753302707357
+  },
+  {
+    "category": "Concept",
+    "question": "What is cost distortion?",
+    "answer": "When some products are overcosted (assigned too much cost) while others are undercosted (assigned too little cost) compared to the true resources they use.",
+    "id": "c_7cdce0226f884d1b",
+    "createdAt": 1745181107357,
+    "updatedAt": 1745181107357
+  },
+  {
+    "category": "Concept",
+    "question": "What is Activity-Based Costing (ABC)?",
+    "answer": "A refined cost allocation system that groups indirect costs into 'activities' or 'cost pools,' and then uses separate allocation rates for each activity to assign costs to jobs/products more accurately.",
+    "id": "c_9e1b4e5068cf47e4",
+    "createdAt": 1744662707357,
+    "updatedAt": 1744662707357
+  },
+  {
+    "category": "Concept",
+    "question": "Why is Activity-Based Costing (ABC) considered more accurate?",
+    "answer": "ABC is the most refined allocation system because it considers the specific resources each product uses and the extent to which it uses them.",
+    "id": "c_f502ff85289f4978",
+    "createdAt": 1739305907357,
+    "updatedAt": 1739305907357
+  },
+  {
+    "category": "Concept",
+    "question": "Are Direct Materials and Direct Labor affected by the choice of cost allocation system (traditional vs. ABC)?",
+    "answer": "No, because they are traced, not allocated. Only Manufacturing Overhead is affected.",
+    "id": "c_25ccaa32ac8143c6",
+    "createdAt": 1746736307357,
+    "updatedAt": 1746736307357
+  },
+  {
+    "category": "Concept",
+    "question": "What is Activity-Based Management (ABM)?",
+    "answer": "Management that uses activity-based costing to make decisions.",
+    "id": "c_62d8d32e06c044ff",
+    "createdAt": 1750883507357,
+    "updatedAt": 1750883507357
+  },
+  {
+    "category": "Concept",
+    "question": "When are the benefits of ABC/ABM higher for companies?",
+    "answer": "For companies in competitive markets and companies with a high risk of cost distortion (e.g., many different products, high indirect costs, varied production volumes).",
+    "id": "c_f41da390dd0f401d",
+    "createdAt": 1747254707357,
+    "updatedAt": 1747254707357
+  }
+]

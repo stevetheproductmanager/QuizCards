@@ -1,0 +1,542 @@
+{
+  "Concept": [
+    {
+      "question": "What is managerial accounting?",
+      "answer": "Managerial accounting involves recording, calculating, and analyzing financial information for internal management and decision-making."
+    },
+    {
+      "question": "What are the three most common types of companies and what do they sell?",
+      "answer": "Service companies sell intangible services, merchandising companies sell tangible products they purchase, and manufacturing companies sell tangible products they make."
+    },
+    {
+      "question": "What kind of inventory do service, merchandising, and manufacturing companies hold?",
+      "answer": "Service companies hold no inventory. Merchandising companies hold one kind: 'Inventory'. Manufacturing companies hold three kinds: Raw Materials, Work-in-Process, and Finished Goods."
+    },
+    {
+      "question": "What is the value chain?",
+      "answer": "The value chain represents the categories of activities that add value to a company's products or services."
+    },
+    {
+      "question": "What are the activities in the value chain?",
+      "answer": "Research and Development, Design, Production or Purchases, Marketing, Distribution, and Customer Service."
+    },
+    {
+      "question": "What is a cost object?",
+      "answer": "A cost object is anything that a manager wants to know the cost of, such as a single unit of product, a product line, a department, or a geographic segment."
+    },
+    {
+      "question": "What is the difference between a direct cost and an indirect cost?",
+      "answer": "A direct cost can be easily traced to the cost object (e.g., direct materials, direct labor). An indirect cost cannot be easily traced and must be allocated (e.g., indirect materials, indirect labor, other overhead)."
+    },
+    {
+      "question": "How can the same cost be direct or indirect?",
+      "answer": "The classification of a cost as direct or indirect depends on the cost object. For example, the cost of plant and equipment depreciation is an indirect cost for one Prius, but a direct cost for the Prius manufacturing plant."
+    },
+    {
+      "question": "What is the difference between product costs and period costs?",
+      "answer": "Product costs are associated with producing or purchasing inventory (Production/Purchases part of the value chain). Period costs are all other costs not related to inventory (other parts of the value chain like R&D, design, marketing, etc.)."
+    },
+    {
+      "question": "How are product costs and period costs treated for accounting purposes?",
+      "answer": "Product costs are first accumulated as Inventory on the Balance Sheet and then expensed as Cost of Goods Sold on the Income Statement when items are sold. Period costs are immediately expensed as Operating Expenses on the Income Statement when incurred."
+    },
+    {
+      "question": "What are the three types of product costs for manufacturing companies?",
+      "answer": "Direct Materials (DM), Direct Labor (DL), and Manufacturing Overhead (MOH)."
+    },
+    {
+      "question": "What are the two methods for determining the cost of a product in job costing?",
+      "answer": "Process Costing (for identical products in large batches with uniform procedures) and Job Costing (for unique/customizable products in smaller batches with differing procedures)."
+    },
+    {
+      "question": "What is a job cost record?",
+      "answer": "A record used to calculate and keep track of the direct materials and direct labor costs traced to a job, and the manufacturing overhead costs allocated to a job."
+    },
+    {
+      "question": "What are the four steps to allocate manufacturing overhead (MOH) to a job?",
+      "answer": "1. Estimate total MOH costs for the entire year. 2. Select and estimate the total allocation base for the entire year. 3. Calculate the predetermined MOH rate (Step 1 ÷ Step 2). 4. Allocate MOH to an individual job (Predetermined MOH rate × Actual amount of allocation base used on the job)."
+    },
+    {
+      "question": "What is an allocation base?",
+      "answer": "A measure chosen as the basis for how indirect costs will be divided up and assigned to individual jobs. Ideally, it should be a cost driver."
+    },
+    {
+      "question": "How can job cost record information be used for making decisions?",
+      "answer": "To reduce future job costs, compare profitability of different products, deal with pricing pressure, decide on discounts for high-volume sales, bid on custom orders, and prepare financial statements."
+    },
+    {
+      "question": "What is overallocated or underallocated manufacturing overhead?",
+      "answer": "The difference between the total amount of MOH allocated throughout the year (based on estimates) and the total amount of MOH actually spent."
+    },
+    {
+      "question": "What happens if MOH is overallocated?",
+      "answer": "Jobs have been overcosted, and COGS needs to be decreased."
+    },
+    {
+      "question": "What happens if MOH is underallocated?",
+      "answer": "Jobs have been undercosted, and COGS needs to be increased."
+    },
+    {
+      "question": "What is cost distortion?",
+      "answer": "When some products are overcosted (assigned too much cost) while others are undercosted (assigned too little cost) compared to the true resources they use."
+    },
+    {
+      "question": "What is Activity-Based Costing (ABC)?",
+      "answer": "A refined cost allocation system that groups indirect costs into 'activities' or 'cost pools,' and then uses separate allocation rates for each activity to assign costs to jobs/products more accurately."
+    },
+    {
+      "question": "Why is Activity-Based Costing (ABC) considered more accurate?",
+      "answer": "ABC is the most refined allocation system because it considers the specific resources each product uses and the extent to which it uses them."
+    },
+    {
+      "question": "Are Direct Materials and Direct Labor affected by the choice of cost allocation system (traditional vs. ABC)?",
+      "answer": "No, because they are traced, not allocated. Only Manufacturing Overhead is affected."
+    },
+    {
+      "question": "What is Activity-Based Management (ABM)?",
+      "answer": "Management that uses activity-based costing to make decisions."
+    },
+    {
+      "question": "When are the benefits of ABC/ABM higher for companies?",
+      "answer": "For companies in competitive markets and companies with a high risk of cost distortion (e.g., many different products, high indirect costs, varied production volumes)."
+    },
+    {
+      "question": "When are the costs of ABC/ABM lower for companies?",
+      "answer": "For companies that already have sophisticated accounting systems/software or information technology (like barcoding) to compile cost driver data."
+    },
+    {
+      "question": "What are some signs that an old cost system may be distorting costs?",
+      "answer": "Managers are confused by costs/profits, bids are won/lost unexpectedly, competitors price similar products much lower profitably, employees doubt cost figures, the system is outdated, new products or production changes haven't led to system updates."
+    },
+    {
+      "question": "What is Total Quality Management (TQM)?",
+      "answer": "A management philosophy focused on consistently generating and delivering high-quality goods and services."
+    },
+    {
+      "question": "What are the four Costs of Quality categories?",
+      "answer": "Prevention Costs, Appraisal Costs, Internal Failure Costs, and External Failure Costs."
+    },
+    {
+      "question": "What are conformance costs?",
+      "answer": "Prevention and appraisal costs, aimed at ensuring products meet quality standards."
+    },
+    {
+      "question": "What are nonconformance costs?",
+      "answer": "Internal and external failure costs, incurred when a product does not meet quality standards."
+    },
+    {
+      "question": "What are variable costs?",
+      "answer": "Costs incurred for each unit. The variable cost per unit is constant, but the total variable cost changes directly with volume."
+    },
+    {
+      "question": "What are fixed costs?",
+      "answer": "Costs incurred in total regardless of the number of units made. Total fixed cost is constant, but fixed cost 'per unit' changes indirectly with volume."
+    },
+    {
+      "question": "What are total costs (or mixed costs)?",
+      "answer": "Costs that contain both fixed and variable behavior components. Total Costs = Total Variable Costs + Total Fixed Costs."
+    },
+    {
+      "question": "What is the relevant range?",
+      "answer": "A wide range of production volume where costs behave as described, with variable cost per unit and total fixed costs remaining constant."
+    },
+    {
+      "question": "What are step costs?",
+      "answer": "Costs where the total cost is 'fixed' over a very small range of activity, then jumps to a higher fixed amount for another small range. The graph looks like stairsteps."
+    },
+    {
+      "question": "What is the high-low method for creating a cost equation?",
+      "answer": "A method using historical data on a scatterplot to find the equation of the line between the highest and lowest volume points. Steps: 1. Identify high/low volume points. 2. Calculate v (variable cost per unit) = ∆y ÷ ∆x. 3. Find f (total fixed costs) by plugging v, x, and y from high or low point into y = vx + f. 4. Write the full cost equation."
+    },
+    {
+      "question": "What is regression analysis for creating a cost equation?",
+      "answer": "A statistical procedure using historical data to find the 'line of best fit' considering all data points. More accurate than high-low. Key outputs are Intercept Coefficient (f), X Variable 1 Coefficient (v), and R-Square."
+    },
+    {
+      "question": "What is the R-Square value in regression analysis?",
+      "answer": "A number between 0 and 1 indicating how well the cost equation line fits the data points (correlation strength). 0-0.5 weak, 0.5-0.8 somewhat correlated, 0.8-1 strongly correlated."
+    },
+    {
+      "question": "What is the difference between a Traditional Income Statement and a Contribution Margin Income Statement?",
+      "answer": "A Traditional Income Statement organizes costs by product vs. period (GAAP required). A Contribution Margin Income Statement organizes costs by behavior (variable vs. fixed) and is often used internally by managers. Both start with Sales Revenue and end with Operating Income."
+    },
+    {
+      "question": "What are the three 'versions' of contribution margin?",
+      "answer": "Total CM, CM per unit (Unit CM), and CM Ratio."
+    },
+    {
+      "question": "What is the breakeven (BE) point?",
+      "answer": "The amount of sales (in units or sales revenue dollars) that would cause income to be zero."
+    },
+    {
+      "question": "What is the target point in CVP analysis?",
+      "answer": "The amount of sales (in units or sales revenue) that would cause income to reach a desired or 'target' amount."
+    },
+    {
+      "question": "How does an increase in Sales Price affect Contribution Margin and the Volume Needed (for BE/Target)?",
+      "answer": "Sales Price ↑ → CM ↑ → Volume Needed ↓."
+    },
+    {
+      "question": "How does a decrease in Sales Price affect Contribution Margin and the Volume Needed (for BE/Target)?",
+      "answer": "Sales Price ↓ → CM ↓ → Volume Needed ↑."
+    },
+    {
+      "question": "How does an increase in Variable Costs affect Contribution Margin and the Volume Needed (for BE/Target)?",
+      "answer": "Variable Costs ↑ → CM ↓ → Volume Needed ↑."
+    },
+    {
+      "question": "How does a decrease in Variable Costs affect Contribution Margin and the Volume Needed (for BE/Target)?",
+      "answer": "Variable Costs ↓ → CM ↑ → Volume Needed ↓."
+    },
+    {
+      "question": "How does an increase in Fixed Costs affect the Volume Needed (for BE/Target)?",
+      "answer": "Fixed Costs ↑ → Volume Needed ↑ (CM is unaffected)."
+    },
+    {
+      "question": "How does a decrease in Fixed Costs affect the Volume Needed (for BE/Target)?",
+      "answer": "Fixed Costs ↓ → Volume Needed ↓ (CM is unaffected)."
+    },
+    {
+      "question": "What is Margin of Safety (MOS)?",
+      "answer": "The difference between actual/target/expected sales and breakeven sales; the 'cushion' or room for error."
+    },
+    {
+      "question": "What is operating leverage?",
+      "answer": "The relative amount of fixed vs. variable costs that make up a business’s total costs; indicates how much leverage the company’s operations (# of units sold) has."
+    },
+    {
+      "question": "What are the characteristics of high operating leverage?",
+      "answer": "Higher Fixed Costs, Lower Variable Costs, Higher Contribution Margin, Higher Risk/Reward. Changes in sales volume have a very large impact on profits."
+    },
+    {
+      "question": "What are the characteristics of low operating leverage?",
+      "answer": "Lower Fixed Costs, Higher Variable Costs, Lower Contribution Margin, Lower Risk/Reward. Changes in sales volume have a lesser impact on profits."
+    },
+    {
+      "question": "What are the two characteristics of relevant information for short-term decisions?",
+      "answer": "1. It pertains to the future. 2. It differs among alternatives."
+    },
+    {
+      "question": "What are sunk costs?",
+      "answer": "Costs that happened in the past and cannot be changed; they are not relevant because they do not pertain to the future."
+    },
+    {
+      "question": "What is incremental information?",
+      "answer": "Information that changes/differs based on the decision."
+    },
+    {
+      "question": "What is the difference between price-setters and price-takers?",
+      "answer": "Price-setters have more unique products/less competition and can set their own price using Cost-Plus Pricing. Price-takers have less unique products/more competition and must use Target Costing to manage costs to achieve desired profit at market price."
+    },
+    {
+      "question": "What should a business consider for a special order decision?",
+      "answer": "Excess capacity, effect on regular sales, and whether the reduced price covers incremental costs (variable costs + any additional fixed costs)."
+    },
+    {
+      "question": "How is a special order analysis performed?",
+      "answer": "1. Calculate additional Contribution Margin from the order: (Discounted Sales Price – Variable Cost Per Unit) × # Units. This increases income. 2. Identify any additional Fixed Costs from this order. This decreases income. 3. Net the two effects. Accept if overall income increases."
+    },
+    {
+      "question": "What should a business consider when deciding to discontinue a product/department?",
+      "answer": "Lost positive contribution margin, avoidable fixed costs, effect on sales of other products, and what could be done with freed capacity."
+    },
+    {
+      "question": "How is a discontinue analysis performed?",
+      "answer": "1. Lost Contribution Margin (decreases income). 2. Avoidable Fixed Costs (increases income). 3. Effects on other products or income from freed capacity (can increase or decrease income). 4. Net the effects. Discontinue if overall income increases."
+    },
+    {
+      "question": "What is a constraint in product mix decisions?",
+      "answer": "Any restriction on the volume of product that can be made or sold (e.g., machine hours, display space)."
+    },
+    {
+      "question": "How is a product mix with constraint analysis performed?",
+      "answer": "1. Calculate Contribution Margin per unit of the constraint for each product (CM per unit × # units that fit in one constraint unit). 2. Choose the product with the highest CM per unit of constraint and make/sell as many as possible, considering demand."
+    },
+    {
+      "question": "What is outsourcing (make or buy) decision?",
+      "answer": "Deciding whether to purchase a product/component from an outside company instead of producing it internally."
+    },
+    {
+      "question": "How is a make or buy analysis performed?",
+      "answer": "Compare the Total Cost to Make vs. Total Cost to Buy. Cost to Make = Variable Mfg. Costs. Cost to Buy = Purchase Price - Any Avoidable Fixed Costs - Any New Income from Freed Capacity. Choose the option with the lower total cost."
+    },
+    {
+      "question": "What are the purposes/benefits of budgeting?",
+      "answer": "Plan/forecast operations and earnings, promote communication and coordination, and provide benchmarks to motivate and measure performance."
+    },
+    {
+      "question": "What are the stages in the development of budgets?",
+      "answer": "Strategic Planning (long-term, big-picture goals), followed by Annual Budgets (shorter-term, detailed). Annual budgets can start from prior year's figures or use Zero-Based Budgeting."
+    },
+    {
+      "question": "What is participative budgeting and its advantages/disadvantages?",
+      "answer": "Higher and lower levels of management work together. Advantages: more detailed knowledge from lower-level managers, increased acceptance/motivation. Disadvantages: more complex/time-consuming, potential for budget slack."
+    },
+    {
+      "question": "What is a master budget (comprehensive budget)?",
+      "answer": "A comprehensive planning document for the entire organization, consisting of all supporting budgets needed to create budgeted financial statements. It includes operating budgets and financial budgets."
+    },
+    {
+      "question": "What is the capital expenditures budget?",
+      "answer": "Shows plans to invest in capital assets (large, long-term assets) during the period."
+    },
+    {
+      "question": "What is the cash collections budget?",
+      "answer": "Forecasts when cash will actually be received from sales, considering cash sales and collection patterns for credit sales."
+    },
+    {
+      "question": "What is the cash payments budget?",
+      "answer": "Records when cash is expected to be paid for various expenses, considering payment terms and noncash expenses."
+    },
+    {
+      "question": "What are examples of noncash expenses that should NOT be on a cash payments budget?",
+      "answer": "Depreciation expense and bad debt expense."
+    },
+    {
+      "question": "What is decentralization in companies?",
+      "answer": "Splitting operations into segments and delegating decision-making to lower-level segment managers."
+    },
+    {
+      "question": "What is goal congruence?",
+      "answer": "When the goals of segment managers align with the goals of top management."
+    },
+    {
+      "question": "What are the four types of responsibility centers?",
+      "answer": "Cost Center (costs only), Revenue Center (revenues only), Profit Center (costs and revenues), and Investment Center (costs, revenues, and managing assets)."
+    },
+    {
+      "question": "What is a variance in performance reports?",
+      "answer": "The difference between an actual result and a budgeted figure."
+    },
+    {
+      "question": "What is a favorable variance?",
+      "answer": "A variance that causes actual income to be higher than budgeted (e.g., more revenue or less expense than budgeted)."
+    },
+    {
+      "question": "What is an unfavorable variance?",
+      "answer": "A variance that causes actual income to be lower than budgeted (e.g., less revenue or more expense than budgeted)."
+    },
+    {
+      "question": "What is management by exception?",
+      "answer": "The practice of investigating only those variances (favorable or unfavorable) that are large enough (exceed a set threshold) to warrant looking into."
+    },
+    {
+      "question": "What is a flexible budget?",
+      "answer": "A budget prepared with budgeted standards (rates/estimations) but for the actual volume sold. It shows what revenues/expenses 'should have been' at the actual sales level."
+    },
+    {
+      "question": "What is the master budget variance?",
+      "answer": "The overall difference between actual results and the master budget."
+    },
+    {
+      "question": "What is the volume variance?",
+      "answer": "The difference between the flexible budget and the master budget, caused solely by the difference in sales volume."
+    },
+    {
+      "question": "What is the flexible budget variance?",
+      "answer": "The difference between actual results and the flexible budget, caused by factors other than volume (e.g., differences in prices, quantities used)."
+    },
+    {
+      "question": "What is the Balanced Scorecard?",
+      "answer": "A performance evaluation tool considering both financial and nonfinancial measures from four perspectives: Financial, Customer, Internal Business, and Learning and Growth, using Key Performance Indicators (KPIs)."
+    },
+    {
+      "question": "What are standard costs?",
+      "answer": "Budgeted costs, usually expressed for one unit, used as a benchmark to compare against actual results."
+    },
+    {
+      "question": "What are the causes of the flexible budget variance?",
+      "answer": "Differences between budgeted standards and actual quantities/prices incurred, split into Price/Rate Variances and Quantity/Efficiency Variances."
+    },
+    {
+      "question": "What is capital budgeting?",
+      "answer": "The process of making decisions about investing in capital assets (large, long-term assets like equipment, buildings, etc.)."
+    },
+    {
+      "question": "What are the four methods to analyze capital investments, and which consider the time value of money?",
+      "answer": "1. Payback Period (does NOT consider time value of money). 2. Accounting Rate of Return (ARR) (does NOT consider time value of money). 3. Net Present Value (NPV) (DOES consider time value of money). 4. Internal Rate of Return (IRR) (DOES consider time value of money)."
+    },
+    {
+      "question": "What is the payback period?",
+      "answer": "The amount of time it takes to recover the initial cost of an investment. Shorter is less risky."
+    },
+    {
+      "question": "What is the time value of money?",
+      "answer": "The idea that $1 received today is worth more than $1 received in the future because it can be invested to earn a return; the relationship between principal, time, and interest."
+    },
+    {
+      "question": "What is Net Present Value (NPV)?",
+      "answer": "The difference between the present value of an investment’s net cash inflows (calculated using a company’s required rate of return) and the initial cost of the investment."
+    },
+    {
+      "question": "What do positive and negative NPV results indicate?",
+      "answer": "Positive NPV: investment’s rate of return > required rate of return (consider investing). Negative NPV: investment’s rate of return < required rate of return (do not invest)."
+    },
+    {
+      "question": "What is the Internal Rate of Return (IRR)?",
+      "answer": "An investment’s exact, unique rate of return considering the time value of money; the interest rate that causes Net Present Value to equal zero."
+    }
+  ],
+  "Formula": [
+    {
+      "question": "What are prime costs?",
+      "answer": "Prime Costs = Direct Materials + Direct Labor."
+    },
+    {
+      "question": "What are conversion costs?",
+      "answer": "Conversion Costs = Direct Labor + Manufacturing Overhead."
+    },
+    {
+      "question": "What is the income statement format for service companies?",
+      "answer": "Sales Revenues - Operating Expenses = Operating Income."
+    },
+    {
+      "question": "What is the income statement format for merchandising and manufacturing companies?",
+      "answer": "Sales Revenues - Cost of Goods Sold (COGS) = Gross Profit. Gross Profit - Operating Expenses = Operating Income."
+    },
+    {
+      "question": "How is Cost of Goods Sold (COGS) calculated for a merchandiser (using inventory account formulas)?",
+      "answer": "Beginning Inventory Balance + Purchases of Inventory - Ending Inventory Balance = Cost of Goods Sold (COGS)."
+    },
+    {
+      "question": "How is Cost of Goods Sold (COGS) calculated for a manufacturer (using inventory account formulas)?",
+      "answer": "For a manufacturer, COGS is calculated by working through three inventory accounts: Raw Materials Inventory (to find Raw/Direct Materials Used), Work-in-Process Inventory (to find Cost of Goods Manufactured), and finally Finished Goods Inventory (to find COGS)."
+    },
+    {
+      "question": "How is Direct Labor (DL) cost calculated for a job?",
+      "answer": "DL Cost = Number of DL hours worked × Wage rate per DL hour."
+    },
+    {
+      "question": "What is the formula for Over/Under-Allocated MOH?",
+      "answer": "Over/Under-Allocated MOH = Allocated MOH - Actual MOH. Or, [(Est. MOH ÷ Est. Allocation Base) × Actual Allocation Base] - Actual MOH."
+    },
+    {
+      "question": "What is the formula for total variable cost?",
+      "answer": "Total Variable Cost = Variable Cost per unit × # of units (vx)."
+    },
+    {
+      "question": "What is the formula for fixed cost per unit?",
+      "answer": "Fixed cost per unit = Total Fixed Cost ÷ # units (f/x)."
+    },
+    {
+      "question": "What is average cost?",
+      "answer": "Total cost per unit (total cost ÷ volume). It changes every time volume changes. Average Cost = Total Cost / Volume (# of units)."
+    },
+    {
+      "question": "What is the cost equation?",
+      "answer": "y = vx + f, where y = total costs, v = variable cost per unit, x = volume (# units), and f = total fixed costs."
+    },
+    {
+      "question": "What is Contribution Margin (CM)?",
+      "answer": "Sales Revenue – Variable Expenses. It's the amount of earnings left after paying variable expenses, used to cover fixed expenses and earn profit."
+    },
+    {
+      "question": "What is the Contribution Margin Ratio (CM Ratio)?",
+      "answer": "CM Ratio = Contribution Margin ÷ Sales Revenue. It shows the percentage of sales revenue left over after variable expenses, or the percentage of sales revenue that is contribution margin."
+    },
+    {
+      "question": "What is the formula for breakeven in units?",
+      "answer": "BE in units = Fixed Expenses ÷ CM per unit."
+    },
+    {
+      "question": "What is the formula for breakeven in sales revenue ($)?",
+      "answer": "BE in sales revenue($) = Fixed Expenses ÷ CM Ratio."
+    },
+    {
+      "question": "What is the formula for target sales in units?",
+      "answer": "Target in units = (Fixed Expenses + Desired Operating Income) ÷ CM per unit."
+    },
+    {
+      "question": "What is the formula for target sales in sales revenue ($)?",
+      "answer": "Target in sales revenue($) = (Fixed Expenses + Desired Operating Income) ÷ CM Ratio."
+    },
+    {
+      "question": "What is the formula for Margin of Safety?",
+      "answer": "Margin of Safety = Target/Expected/Actual Sales – Breakeven Sales (can be in units or revenue)."
+    },
+    {
+      "question": "What is the formula for Margin of Safety as a Percentage?",
+      "answer": "Margin of Safety as a Percentage = Margin of Safety ÷ Target Sales."
+    },
+    {
+      "question": "What is Cost-Plus Pricing?",
+      "answer": "Total Cost + Desired Profit = Total Revenue. Total Revenue ÷ # Units = Price per unit."
+    },
+    {
+      "question": "What is Target Costing?",
+      "answer": "Revenue @ Market Price - Desired Profit = Target Cost. Companies must then seek cost savings if current costs exceed target cost."
+    },
+    {
+      "question": "What is the sales budget and its formula?",
+      "answer": "The starting point of budgeting, it forecasts expected sales. Formula: Budgeted # Sales Units × Sales Price Per Unit = Budgeted Sales Revenue."
+    },
+    {
+      "question": "What is the production budget and its formula?",
+      "answer": "Calculates units to produce based on planned sales and desired ending inventory. Formula: Sales Units + Desired Ending Inventory - Beginning Inventory = # Units to Produce."
+    },
+    {
+      "question": "What is the direct materials budget and its formula?",
+      "answer": "Calculates quantity and cost of direct materials to purchase. Formula: (Units to Produce × DM Qty per Unit) + Desired Ending DM Inventory - Beginning DM Inventory = Qty of DM to Purchase. Then, Qty of DM to Purchase × Cost Per Unit of DM = Total Cost of DM Purchases."
+    },
+    {
+      "question": "What is the direct labor budget and its formula?",
+      "answer": "Calculates expected direct labor costs. Formula: Units to be Produced × DL Hours Per Unit = Total DL Hours Required. Then, Total DL Hours Required × DL Cost Per Hour = Total Direct Labor Cost."
+    },
+    {
+      "question": "How are cash collections typically calculated in the cash collections budget?",
+      "answer": "Cash Sales for Given Month + % of Given Month’s Credit Sales Collected + % of Previous Month’s Credit Sales Collected + % of Two Months Ago’s Credit Sales Collected = Total Cash Collections."
+    },
+    {
+      "question": "What is the combined cash budget and its formula?",
+      "answer": "Shows planned cash flow, from beginning to ending balance, considering collections, payments, and borrowing. Formula: Beginning Cash Balance + Cash Collections - Cash Payments = Ending Cash Balance Before Financing +/- Borrowings/Repayments/Interest = Ending Cash Balance."
+    },
+    {
+      "question": "What is Return on Investment (ROI) and its formula?",
+      "answer": "Measures operating income earned relative to assets invested. ROI = Operating Income ÷ Total Assets."
+    },
+    {
+      "question": "What are the two drivers of ROI (expanded formula)?",
+      "answer": "Sales Margin (Operating Income ÷ Sales Revenue) and Capital Turnover (Sales Revenue ÷ Total Assets). ROI = Sales Margin × Capital Turnover."
+    },
+    {
+      "question": "What is Residual Income (RI) and its formula?",
+      "answer": "Measures operating income above management's target rate of return on assets. RI = Operating Income – (Target Rate of Return × Total Assets). Promotes goal congruence better than ROI."
+    },
+    {
+      "question": "What is the formula for standard cost?",
+      "answer": "Standard Cost = Standard Quantity of Input × Standard Price of Input."
+    },
+    {
+      "question": "What is the Direct Materials Price Variance formula?",
+      "answer": "Direct Materials Price Variance = (Actual DM Price − Std. DM Price) × Actual Quantity DM Purchased."
+    },
+    {
+      "question": "What is the Direct Labor 'Rate' Variance formula?",
+      "answer": "Direct Labor 'Rate' Variance = (Actual DL Rate − Std. DL Rate) × Actual # DL Hours."
+    },
+    {
+      "question": "What is the Direct Materials Quantity Variance formula?",
+      "answer": "Direct Materials Quantity Variance = (Actual Quan. DM Used − Std. Quan. DM Allowed) × Std. DM Price."
+    },
+    {
+      "question": "What is the Direct Labor 'Efficiency' Variance formula?",
+      "answer": "Direct Labor 'Efficiency' Variance = (Actual # DL Hours − Std. # DL Hours Allowed) × Std. DL Rate."
+    },
+    {
+      "question": "What is the formula for payback period with equal annual cash flows?",
+      "answer": "Payback Period = Initial Investment ÷ Annual Net Cash Inflow."
+    },
+    {
+      "question": "What is the Accounting Rate of Return (ARR) and its formula?",
+      "answer": "Measures profitability of an asset compared to its cost, using operating income. ARR = Average Annual Operating Income ÷ Initial Investment. Or, (Average Annual Net Cash Inflow – Annual Depreciation Expense) ÷ Initial Investment."
+    },
+    {
+      "question": "What is the formula for Net Present Value (NPV)?",
+      "answer": "Net Present Value = Present Value of All Future Net Cash Inflows – Initial Cost of Investment."
+    },
+    {
+      "question": "What is the Profitability Index and its formula?",
+      "answer": "Compares the present value of net cash inflows to the initial investment, used to choose among investments of different sizes. Profitability Index = Present Value of Net Cash Inflows ÷ Initial Investment."
+    }
+  ]
+}

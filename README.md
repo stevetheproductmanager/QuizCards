@@ -8,6 +8,7 @@ A modular React app (Vite) for studying with flashcards sourced from JSON. It se
 # 1) Install deps
 npm install
 
+<<<<<<< HEAD
 # 2) Start dev server
 npm run dev
 
@@ -35,3 +36,6 @@ IDs/timestamps are auto-filled on import.
 - `data/`: storage helpers
 - `pages/`: top-level composition
 - `styles/`: CSS for flip behavior
+=======
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e42283e2-0a74-423a-92ac-55540ea2a6cb" />
+>>>>>>> eeefa2ec35809a8fd27ef8a79010457748794d1d

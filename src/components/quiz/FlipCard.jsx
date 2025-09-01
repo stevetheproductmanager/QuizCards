@@ -81,7 +81,7 @@ export default function FlipCard({ question, answer, showAnswer }) {
             {question}
           </Typography>
 
-          <Box sx={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+          <Box sx={{ flex: 1, display: 'flex', alignItems: 'left', justifyContent: 'left'}}>
             <Box sx={{ width: '100%', maxWidth: '52rem' }}>
               <Chip
                 label="Answer"
@@ -92,7 +92,7 @@ export default function FlipCard({ question, answer, showAnswer }) {
               />
               <Typography
                 variant="h2"                 // ⬅️ same large size as front
-                sx={{ fontWeight: 700, lineHeight: 1.2, textAlign: 'center' }}
+                sx={{ fontWeight: 400, lineHeight: 1.2, textAlign: 'center' }}
               >
                 {answer}
               </Typography>

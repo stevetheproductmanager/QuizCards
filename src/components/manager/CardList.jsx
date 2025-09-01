@@ -1,3 +1,4 @@
+// src/components/CardList.jsx
 import React from 'react'
 import { DataGrid } from '@mui/x-data-grid'
 import { Box, Button, Stack } from '@mui/material'
@@ -18,18 +19,17 @@ export default function CardList({ rows, onEdit, onDelete }) {
     }
   ]
 
-return (
-  <Box sx={{ height: '70%', width: '100%' }}>
-    <DataGrid
-      getRowId={(r) => r.id}
-      rows={rows}
-      columns={columns}
-      pageSizeOptions={[10, 25, 50, 100]}
-      initialState={{
-        pagination: { paginationModel: { pageSize: 10 } }
-      }}
-    />
-  </Box>
-)
-
+  return (
+    <Box sx={{ height: '70%', width: '100%' }}>
+      <DataGrid
+        getRowId={(r) => r.id}
+        rows={rows}
+        columns={columns}
+        pageSizeOptions={[10, 25, 50, 100]}
+        initialState={{
+          pagination: { paginationModel: { pageSize: 10 } }
+        }}
+      />
+    </Box>
+  )
 }
